@@ -110,10 +110,9 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 ## 👤 Author
 **Shadan Tech**   
 _Data Analyst_
+
 🔗 [LinkedIn Profile](http://www.linkedin.com/in/shadantech)
-
 🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/shadan.sarfaraz/vizzes)
-
 🔗 [Newsletter](https://shadantech.substack.com/)
 
 ---
