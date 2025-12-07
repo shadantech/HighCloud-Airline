@@ -62,20 +62,6 @@ To analyze flight performance, route efficiency, passenger trends, and operation
 
 ---
 
-## 🧭 Dashboard UI & Navigation
-All pages follow a **consistent layout**:
-- **Left Sidebar:**  
-  - Navigation buttons → *Overview → Flights → Routes → Analytics → Passengers*  
-  - Airline brand logo (HighCloud Airline)
-
-- **Right Section:**  
-  - Page title  
-  - Purpose statement  
-  - 4 Key KPIs  
-  - Visuals & insights  
-
----
-
 ## 🔍 Key Insights
 - Passenger demand peaks in **July** and **December**.  
 - **Weekends** show higher load factors than weekdays.  
@@ -109,7 +95,6 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 - Designed SQL scripts for data extraction & preparation  
 - Performed joins, aggregations, and route performance queries  
 - Generated datasets for visualization
-- (High_Cloud_Airlines_SQL_file.sql)
 
 ### ✅ Tableau  
 - Developed a **navigation-style Tableau dashboard**  
