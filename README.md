@@ -56,7 +56,7 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 - Passengers trend over time  
 - Flights by carrier group  
 - Passenger distribution by region  
-- ([Overview Page](Overview.png))
+- !([Overview Page](Overview.png))
 
 
 ### 2️⃣ Flight Management
@@ -64,27 +64,27 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 - Missed & Extra flights  
 - Origin–Destination matrix  
 - Carrier-level operational performance  
-- ([Flight Page](Flights.png))
+- !([Flight Page](Flights.png))
 
 ### 3️⃣ Route Insights
 - Top 10 routes by passenger traffic  
 - Routes by distance group  
 - Map visualization by carrier groups  
 - Route type distribution  
-- ([Routes Page](Routes.png))
+- !([Routes Page](Routes.png))
 
 ### 4️⃣ Analytics & Reports
 - Yearly & monthly trend analysis  
 - Decomposition tree for KPI drivers  
 - Distance vs Air Time scatter analysis
-- ([Analytics Page](Analytics.png))  
+- !([Analytics Page](Analytics.png))  
 
 ### 5️⃣ Passenger Management
 - Passenger growth by quarter  
 - Top 5 routes (passenger volume)  
 - Airport-wise passenger distribution (treemap)  
 - Waterfall: Passenger change over months/years  
-- ([Passenger Page](Passengers.png))
+- !([Passenger Page](Passengers.png))
 
 ---
 
