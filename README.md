@@ -52,7 +52,7 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 ---
 
 ## Live Dashboard
-- 🔗 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
+🔗 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
 
 ---
 
@@ -91,7 +91,7 @@ This project was built as part of my **Data Analytics Internship**, where I perf
 
 | Tool         | Role                                                                                                                                                                                                                 |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Excel**    | Cleaned & analyzed raw flight data, built interactive dashboards ([GitHub](https://github.com/shadantech/Airlines_Excel_Dashboard))                                                                                  |
+| **Excel**    | Cleaned & analyzed raw flight data, built interactive dashboards ([Live Dashboard](https://github.com/shadantech/Airlines_Excel_Dashboard))                                                                                  |
 | **SQL**      | Data extraction & preparation, route performance queries                                                                                                                                                             |
 | **Tableau**  | Navigation-style dashboards, KPIs, trend & map analysis                                                                                                                                                              |
 | **Power BI** | Advanced multi-page dashboard, dynamic KPIs, drill-through, DAX measures ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi)) |
