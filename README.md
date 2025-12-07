@@ -24,13 +24,12 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 - Designed a professional **multi-page dashboard** with:
   - Advanced navigation buttons  
   - Slicers & drill-through  
-  - Tooltip detail pages  
   - Custom visuals  
 - Focused visuals on seasonality, route contribution, and operational efficiency.
 
 ### **R — Result**
 - Identified **peak passenger months: July & December**.  
-- Revealed that **top 20% routes contribute 60%+ of total volume**, supporting capacity planning.  
+- Revealed that **top 20% routes contribute 61%+ of total volume**, supporting capacity planning.  
 - Discovered **higher weekend load factor**, useful for scheduling optimization.  
 - Delivered a dashboard that improved clarity, speed of analysis, and data-driven decision-making.
 
@@ -45,6 +44,11 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 
 ---
 
+## Live Dashboard
+- ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Operations Overview
@@ -52,29 +56,35 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 - Passengers trend over time  
 - Flights by carrier group  
 - Passenger distribution by region  
+- ([Overview Page](Overview.png))
+
 
 ### 2️⃣ Flight Management
 - Scheduled vs Performed flights  
 - Missed & Extra flights  
 - Origin–Destination matrix  
 - Carrier-level operational performance  
+- ([Flight Page](Flights.png))
 
 ### 3️⃣ Route Insights
 - Top 10 routes by passenger traffic  
 - Routes by distance group  
 - Map visualization by carrier groups  
 - Route type distribution  
+- ([Routes Page](Routes.png))
 
 ### 4️⃣ Analytics & Reports
 - Yearly & monthly trend analysis  
 - Decomposition tree for KPI drivers  
-- Distance vs Air Time scatter analysis  
+- Distance vs Air Time scatter analysis
+- ([Analytics Page](Analytics.png))  
 
 ### 5️⃣ Passenger Management
 - Passenger growth by quarter  
 - Top 5 routes (passenger volume)  
 - Airport-wise passenger distribution (treemap)  
 - Waterfall: Passenger change over months/years  
+- ([Passenger Page](Passengers.png))
 
 ---
 
