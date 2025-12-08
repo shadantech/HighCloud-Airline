@@ -1,6 +1,6 @@
-# ✈️ HighCloud Airline
+# ✈️ HighCloud Airlines
 
-## 📌 Project Overview
+## 📌 Overview
 This project analyzes airline passenger trends using a dataset of **110,852 rows**, uncovering seasonality, route performance, airport traffic, and operational efficiency.  
 The final output includes a **multi-page Power BI dashboard** with advanced navigation, drill-through, and DAX-driven insights, designed to support data-driven decision-making.
 
@@ -34,28 +34,6 @@ To clean, model, and analyze the dataset, and build a Power BI dashboard that re
 
 ---
 
-## 🔑 Key Insights
-- Passenger demand peaks in July & December
-- Top routes drive 60%+ of traffic, useful for capacity planning
-- Operational efficiency improves with higher load factor
-- Weekend flights have higher load factor, guiding scheduling
-
----
-
-## 📊 Tools & Technologies
-- Power BI (Final dashboard)
-- Power Query & DAX
-- Excel (Pivot Tables, Slicers, Charts)
-- SQL (Data extraction, joins, aggregations)
-- Tableau (Navigation-style dashboards, KPI cards, LOD expressions) 
-
----
-
-## Live Dashboard
-🔗 ([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
-
----
-
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Operations Overview 
@@ -82,6 +60,28 @@ Trend insights and operational drivers
 Passenger behavior, growth, and distribution
 
 ![Passenger Page](Passengers.png)
+
+---
+
+## 🔗 Live Preview
+([Live Dashboard](https://app.powerbi.com/groups/me/reports/773d6057-d84a-4c02-8d3b-cd72958323cd/74ecc8dde9253a60b79b?experience=power-bi))
+
+---
+
+## 🔑 Key Insights
+- Passenger demand peaks in July & December
+- Top routes drive 60%+ of traffic, useful for capacity planning
+- Operational efficiency improves with higher load factor
+- Weekend flights have higher load factor, guiding scheduling
+
+---
+
+## 📊 Tools & Technologies
+- Power BI (Final dashboard)
+- Power Query & DAX
+- Excel (Pivot Tables, Slicers, Charts)
+- SQL (Data extraction, joins, aggregations)
+- Tableau (Navigation-style dashboards, KPI cards, LOD expressions) 
 
 ---
 
